@@ -22,7 +22,6 @@ Este é o backend da aplicação web de Diagrama Unifilar desenvolvida para o CE
 
 ```bash
 git clone https://github.com/Wesnnen/Cepel_Diagrama_Unifilar_Backend.git
-cd diagrama-backend
 ```
 
 ### 3. Execute o projeto
