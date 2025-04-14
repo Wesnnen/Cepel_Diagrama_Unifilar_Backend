@@ -21,7 +21,7 @@ Este é o backend da aplicação web de Diagrama Unifilar desenvolvida para o CE
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/diagrama-backend.git
+git clone https://github.com/Wesnnen/Cepel_Diagrama_Unifilar_Backend.git
 cd diagrama-backend
 ```
 
@@ -75,5 +75,4 @@ O backend estará disponível em: [http://localhost:8083](http://localhost:8083)
 🔄 Integração com CORS para comunicação com frontend React
 
 ## 📃 Licença
-
 MIT © Wesnnen Silva
