@@ -28,8 +28,6 @@ cd diagrama-backend
 ### 3. Execute o projeto
 
 ```bash
-Copiar
-Editar
 ./mvnw spring-boot:run
 ```
 O backend estará disponível em: [http://localhost:8083](http://localhost:8083)
