@@ -61,15 +61,15 @@ O backend estará disponível em: [http://localhost:8083](http://localhost:8083)
 ```
 
 ## ✨ Funcionalidades
- ✅ Leitura de arquivos XML com múltiplos formatos
- ✅ Conversão para JSON compatível com React Flow
- ✅ Suporte a diferentes tipos de componentes (bus, machine, load etc.)
- ✅ Validação e tratamento de falhas na estrutura do XML
+ ✅ Leitura de arquivos XML com múltiplos formatos   
+ ✅ Conversão para JSON compatível com React Flow   
+ ✅ Suporte a diferentes tipos de componentes (bus, machine, load etc.)   
+ ✅ Validação e tratamento de falhas na estrutura do XML   
 
 ## 🔧 Pontos Bônus Implementados
-💡 Mensagens de log detalhadas em tempo de execução
-📦 Tratamento para múltiplos formatos de XML (com fallback se estrutura principal falhar)
-🔄 Integração com CORS para comunicação com frontend React
+💡 Mensagens de log detalhadas em tempo de execução   
+📦 Tratamento para múltiplos formatos de XML (com fallback se estrutura principal falhar)   
+🔄 Integração com CORS para comunicação com frontend React    
 
 ## 📃 Licença
 MIT © Wesnnen Silva
